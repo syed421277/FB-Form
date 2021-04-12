@@ -19,6 +19,14 @@ body {
     margin: 0;
 }
 
+.bg image{
+    display: flex;
+    width: fit-content;
+    border-radius: 5px;
+    background-size: cover;
+    position: fixed;
+}
+
 .container {
     background-color:#ecf0f1;
     border-radius: 5px;
